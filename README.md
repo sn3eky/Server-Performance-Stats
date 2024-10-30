@@ -15,7 +15,7 @@ A step-by-step guide to get a development environment running.
 
 2. **Navigate into the repository directory**
 
-   ``` cd Server-Performance-Stats```
+   ```cd Server-Performance-Stats```
    
 3. ** Give permissions to the script file**
    
